@@ -14,8 +14,8 @@ A simple Fruit Ninja-inspired game built using Java and Swing.
    ```bash
    git clone https://github.com/Rahul2326/fruit-ninja-java.git
 **Navigate to the project directory and compile the code:**
-   javac FruitNinjaGame.java
-   java FruitNinjaGame
+   1.javac FruitNinjaGame.java
+   2.java FruitNinjaGame
 
 **Dependencies:**
 Java Development Kit (JDK) 8 or higher.
